@@ -1,0 +1,3 @@
+# creamos un usuario
+CREATE USER 'user'@'%'IDENTIFIED BY 'password';
+#agregamos todos los  permi al usuario useR
